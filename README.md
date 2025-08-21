@@ -20,7 +20,6 @@ and responsive design, making it easy to explore my work and connect with me.
 - TypeScript
 - HTML
 - CSS
-- Deployment: GitHub Pages
 
 ## 🚀 Getting Started
 
@@ -33,7 +32,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/turahrae/Angular-Portfolio.git
-   
+     
 2. Navigate into the project folder:
    ```bash
    cd Angular-Portfolio
@@ -50,8 +49,6 @@ Make sure you have the following installed:
     ```bash
     http://localhost:4200/
 
-   
-
  📦 Deployment
  1.   To build for production:
       ```bash
@@ -60,7 +57,6 @@ Make sure you have the following installed:
  2.   For GitHub Pages:
       ```bash
       ng deploy --base-href=/
-
 
 
 ✨ Designed and developed with passion by Mistura Ishola
