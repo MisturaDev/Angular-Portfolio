@@ -1,7 +1,7 @@
 # Angular Portfolio
 
 A modern personal portfolio website built with **Angular**.  
-This project highlights my skills, projects, and developer journey through a clean
+This project highlights my skills, projects and developer journey through a clean
 and responsive design, making it easy to explore my work and connect with me.
 
 ## 🔗 Live Demo
