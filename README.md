@@ -46,8 +46,9 @@ Make sure you have the following installed:
 5.  Open the browser at:
     ```bash
     http://localhost:4200/
+    
 
-📦 Deployment
+## 📦 Deployment
  1.   To build for production:
       ```bash
       ng build --configuration production
@@ -56,7 +57,12 @@ Make sure you have the following installed:
       ```bash
       ng deploy --base-href=/
 
+----
 
-✨ Designed and developed with passion by Mistura Ishola
+  ## 👩‍💻 Author
+  
+  ✨ Designed and developed with passion by:
+   Mistura Ishola (Turah Rae)
+   [GitHub](https://github.com/TurahRae)
 
   
