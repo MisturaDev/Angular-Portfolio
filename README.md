@@ -1,8 +1,6 @@
-# Portfolio-App
+# Angular Portfolio
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
-
-# Angular Portfolio
 
 A modern personal portfolio website built with **Angular**.  
 This project highlights my skills, projects, and developer journey through a clean
@@ -47,6 +45,17 @@ Make sure you have the following installed:
 
 5.  Open the browser at:
     http://localhost:4200/
+
+   
+
+ 📦 Deployment
+ 1.   To build for production:
+      ng build --configuration production
+
+ 2.   For GitHub Pages:
+      ng deploy --base-href=/
+
+
 
 ✨ Designed and developed with passion by Mistura Ishola
 
