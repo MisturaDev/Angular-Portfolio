@@ -1,7 +1,5 @@
 # Angular Portfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
-
 A modern personal portfolio website built with **Angular**.  
 This project highlights my skills, projects, and developer journey through a clean
 and responsive design, making it easy to explore my work and connect with me.
@@ -49,7 +47,7 @@ Make sure you have the following installed:
     ```bash
     http://localhost:4200/
 
- 📦 Deployment
+📦 Deployment
  1.   To build for production:
       ```bash
       ng build --configuration production
