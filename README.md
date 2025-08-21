@@ -35,24 +35,30 @@ Make sure you have the following installed:
    git clone https://github.com/turahrae/Angular-Portfolio.git
    
 2. Navigate into the project folder:
+   ```bash
    cd Angular-Portfolio
    
 3. Install dependencies:
+   ```bash
     npm install
    
 4. Start the development server:
+   ```bash
      ng serve
 
 5.  Open the browser at:
+    ```bash
     http://localhost:4200/
 
    
 
  📦 Deployment
  1.   To build for production:
+      ```bash
       ng build --configuration production
 
  2.   For GitHub Pages:
+      ```bash
       ng deploy --base-href=/
 
 
