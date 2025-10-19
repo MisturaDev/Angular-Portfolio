@@ -61,7 +61,7 @@ Make sure you have the following installed:
 
   ## 👩‍💻 Author
   
-  ✨ Developed by:
+   Developed by:
    Mistura Ishola (Turah Rae)
    [GitHub](https://github.com/TurahRae)
 
