@@ -5,7 +5,7 @@ This project highlights my skills, projects and developer journey through a clea
 and responsive design, making it easy to explore my work and connect with me.
 
 ## 🔗 Live Demo
-👉 [View Portfolio](https://turahrae.github.io/Angular-Portfolio/)
+👉 [View Portfolio](https://misturadev.github.io/Angular-Portfolio/)
 
 ## 📂 Sections
 - **Home** – Landing page with a warm introduction  
@@ -29,7 +29,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/turahrae/Angular-Portfolio.git
+   git clone https://github.com/misturadev/Angular-Portfolio.git
      
 2. Navigate into the project folder:
    ```bash
@@ -62,7 +62,8 @@ Make sure you have the following installed:
   ## 👩‍💻 Author
   
    Developed by:
-   Mistura Ishola (Turah Rae)
-   [GitHub](https://github.com/TurahRae)
+   **Mistura Ishola**
+   [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
+
 
   
