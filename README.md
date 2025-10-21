@@ -59,9 +59,7 @@ Make sure you have the following installed:
 
 ----
 
-  ## 👩‍💻 Author
-  
-   Developed by:
+  ## 👩‍💻 Developer
    **Mistura Ishola**
    [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
