@@ -29,7 +29,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-  https://github.com/misturadev/Angular-Portfolio.git
+   https://github.com/misturadev/Angular-Portfolio.git
      
 2. Navigate into the project folder:
    ```bash
