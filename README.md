@@ -13,7 +13,7 @@ and responsive design, making it easy to explore my work and connect with me.
 - **Projects** – A curated list of selected works demonstrating experience
 - **Contact** – Easy way to get in touch  
 
-## 🛠 Tech Stack
+## Tech Stack
 - Angular  
 - TypeScript
 - HTML
