@@ -4,10 +4,10 @@ A modern personal portfolio website built with **Angular**.
 This project highlights my skills, projects and developer journey through a clean
 and responsive design, making it easy to explore my work and connect with me.
 
-## 🔗 Live Demo
-👉 [View Portfolio](https://misturadev.github.io/Angular-Portfolio/)
+##  Live Demo
+ [View Portfolio](https://misturadev.github.io/Angular-Portfolio/)
 
-## 📂 Sections
+## Sections
 - **Home** – Landing page with a warm introduction  
 - **About** – Brief bio and highlighted skills  
 - **Projects** – A curated list of selected works demonstrating experience
@@ -19,7 +19,7 @@ and responsive design, making it easy to explore my work and connect with me.
 - HTML
 - CSS
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -48,7 +48,7 @@ Make sure you have the following installed:
     http://localhost:4200/
     
 
-## 📦 Deployment
+##  Deployment
  1.   To build for production:
       ```bash
       ng build --configuration production
@@ -59,7 +59,7 @@ Make sure you have the following installed:
 
 ----
 
-  ## 👩‍💻 Developer
+  ## Developer
    **Mistura Ishola**
    [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
